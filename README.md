@@ -103,4 +103,5 @@ These were the final deduced coordinates:
 
 Navigating to these predetermined locations with the assistance of my real-time coordinate line of code, I observed the dynamic population of the `runes` array—another code modification I implemented for real-time visibility. Upon reaching the ultimate position, the win alert promptly surfaced, affirming the successful discovery of the treasure!
 
+![](https://i.imgur.com/INyF2co.gif)
 
