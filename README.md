@@ -9,7 +9,7 @@ To achieve this, I had to modify the browser's userAgent to start reading as BLA
 ![](https://i.imgur.com/G5bYhwQ.png)
 
 ### Gathering the Runes
-After setting the correct userAgent, I navigated the marker to three specific locations to obtain the corresponding runes: alpha, beta, and gamma. The sequence and results of reaching these runes in the correct order were as follows:
+After setting the correct userAgent, I navigated the marker to three specific locations/coordinates (x,y) to obtain the corresponding runes: alpha, beta, and gamma. The sequence and results of reaching these runes in the correct order were as follows:
 
 `alpha` was located at (73, 82)
 
